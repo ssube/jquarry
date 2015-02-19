@@ -4,5 +4,4 @@
  * This library may be used or modified in any legal fashion, but attribution is totally required.
  */
 
-jQuery.noConflict();
-var Ҩ = jQuery;
+var Ҩ = jQuery.noConflict();
